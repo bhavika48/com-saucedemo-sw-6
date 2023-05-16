@@ -6,6 +6,3 @@ Feature:Product page
     And I enter "secret_sauce" password
     And I click on 'LOGIN' button
     Then I verify that six products are displayed on page
-
-
-
